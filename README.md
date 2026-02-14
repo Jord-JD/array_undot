@@ -1,9 +1,9 @@
 # array_undot
 
-[![Build Status](https://travis-ci.org/DivineOmega/array_undot.svg?branch=master)](https://travis-ci.org/DivineOmega/array_undot)
-[![Coverage Status](https://coveralls.io/repos/github/DivineOmega/array_undot/badge.svg?branch=master)](https://coveralls.io/github/DivineOmega/array_undot?branch=master)
+[![Build Status](https://travis-ci.org/Jord-JD/array_undot.svg?branch=master)](https://travis-ci.org/Jord-JD/array_undot)
+[![Coverage Status](https://coveralls.io/repos/github/Jord-JD/array_undot/badge.svg?branch=master)](https://coveralls.io/github/Jord-JD/array_undot?branch=master)
 [![StyleCI](https://styleci.io/repos/130364810/shield?branch=master)](https://styleci.io/repos/130364810)
-![Packagist](https://img.shields.io/packagist/dt/DivineOmega/array_undot.svg)
+![Packagist](https://img.shields.io/packagist/dt/jord-jd/array_undot.svg)
 
 This package provides a helper function called `array_undot`, which expands a dot notation array into a full multi-dimensional array. 
 It is, therefore, the opposite of the `array_dot` helper function provided by Laravel.
@@ -13,7 +13,7 @@ It is, therefore, the opposite of the `array_dot` helper function provided by La
 To install, just run the following composer command.
 
 ```
-composer require divineomega/array_undot
+composer require jord-jd/array_undot
 ```
 
 The `array_undot` helper function will then be available globally in your project.

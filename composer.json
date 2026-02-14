@@ -1,5 +1,5 @@
 {
-    "name": "divineomega/array_undot",
+    "name": "jord-jd/array_undot",
     "description": "array_undot (the opposite of the array_dot helper function) expands a dot notation array into a full multi-dimensional array.",
     "type": "library",
     "require-dev": {
@@ -24,6 +24,14 @@
     "autoload-dev": {
         "psr-4": {
             "DivineOmega\\ArrayUndot\\Tests\\": "tests/Unit/"
+        }
+    },
+    "replace": {
+        "divineomega/array_undot": "self.version"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
         }
     }
 }

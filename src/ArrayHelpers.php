@@ -1,6 +1,6 @@
 <?php
 
-namespace DivineOmega\ArrayUndot;
+namespace JordJD\ArrayUndot;
 
 class ArrayHelpers
 {

@@ -1,6 +1,6 @@
 <?php
 
-use DivineOmega\ArrayUndot\ArrayHelpers;
+use JordJD\ArrayUndot\ArrayHelpers;
 
 if (!function_exists('array_undot')) {
     /**

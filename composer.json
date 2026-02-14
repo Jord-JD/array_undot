@@ -18,12 +18,12 @@
             "src/array_undot.php"
         ],
         "psr-4": {
-            "DivineOmega\\ArrayUndot\\": "src/"
+            "JordJD\\ArrayUndot\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "DivineOmega\\ArrayUndot\\Tests\\": "tests/Unit/"
+            "JordJD\\ArrayUndot\\Tests\\": "tests/Unit/"
         }
     },
     "replace": {

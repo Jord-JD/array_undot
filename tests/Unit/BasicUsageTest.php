@@ -1,6 +1,6 @@
 <?php
 
-namespace DivineOmega\ArrayUndot\Tests;
+namespace JordJD\ArrayUndot\Tests;
 
 use PHPUnit\Framework\TestCase;
 

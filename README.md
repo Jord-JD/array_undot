@@ -2,7 +2,6 @@
 
 [![Build Status](https://travis-ci.org/Jord-JD/array_undot.svg?branch=master)](https://travis-ci.org/Jord-JD/array_undot)
 [![Coverage Status](https://coveralls.io/repos/github/Jord-JD/array_undot/badge.svg?branch=master)](https://coveralls.io/github/Jord-JD/array_undot?branch=master)
-[![StyleCI](https://styleci.io/repos/130364810/shield?branch=master)](https://styleci.io/repos/130364810)
 ![Packagist](https://img.shields.io/packagist/dt/jord-jd/array_undot.svg)
 
 This package provides a helper function called `array_undot`, which expands a dot notation array into a full multi-dimensional array. 
